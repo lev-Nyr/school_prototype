@@ -1,0 +1,17 @@
+.GameSign {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+.GameSign__menu{
+  padding: 20px;
+}
+.GameSign__page{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  flex-grow: 1;
+}

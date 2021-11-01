@@ -1,0 +1,27 @@
+.GameFigures__figur-img{
+    height: 200px;
+    width: 200px;
+    font-size: 100px;
+}
+.soundText{
+    color: rgb(158, 158, 158);
+}
+#id{
+    user-select: none; 
+}
+.Game__progress{
+    height: 10px;
+}
+.Game__progress_progress{
+    background-color: #66ff00;
+    border: 0;
+    height: 18px;
+    border-radius: 9px;
+}
+.Game__progress_time{
+    background-color: #ff0202;
+    border: 0;
+    height: 18px;
+    border-radius: 9px;
+
+}

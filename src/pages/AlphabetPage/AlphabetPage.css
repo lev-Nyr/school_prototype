@@ -1,0 +1,18 @@
+.AlphabetPage{
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+.AlphabetPage__menu{
+  padding: 20px;
+}
+.AlphabetPage__page{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  flex-grow: 1;
+}
+

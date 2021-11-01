@@ -1,0 +1,20 @@
+.FigursPage {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+.FigursPage__menu{
+  padding: 20px;
+}
+.FigursPage__page{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  flex-grow: 1;
+}
+.Shadow{
+  box-shadow: 1000px solid rgb(255, 244, 146);
+}

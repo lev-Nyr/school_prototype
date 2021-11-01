@@ -1,0 +1,55 @@
+.App{
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+.App__menu{
+  display: flex;
+  gap: 16px;
+  
+}
+.App__header{
+  padding: 16px;
+  background-color: rgb(136, 136, 136);
+  min-height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.App__content{
+  padding: 10px;
+  background-color: rgb(224, 224, 224);
+  background-size: 100%;
+  flex-grow: 1 ;
+}
+.App__futter{
+  background-color: rgb(134, 134, 134);
+  bottom: 5;
+  min-height: 50px;
+}
+.App__menu-сtraniwa{
+  color: rgb(0, 0, 0);
+}
+.App__right-buttons{
+  display:flex;
+  align-items: center;
+  gap: 16px;
+}
+
+@media screen and (max-width: 479px) {
+  .App__menu{
+    display: flex;
+    gap: 8px;
+    
+  }
+  .App__header{
+    font-size: 12px;
+    padding: 16px;
+    background-color: rgb(122, 122, 122);
+    min-height: 50px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  
+}

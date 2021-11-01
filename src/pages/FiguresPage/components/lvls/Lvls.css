@@ -1,0 +1,35 @@
+.Lvls{
+    height: 100%;
+}
+.Lvls__continer{
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+}
+.button{
+    color: rgb(0, 0, 0);
+    background-color: deepskyblue;
+    width: 100px;
+    font-size: 20px;
+    font-family: cursive;
+    border-radius: 50px;
+}
+
+.Lvls__card{
+    background-color: rgb(226, 225, 247);
+    border: 1px solid black ;
+    border-radius: 10px;
+    padding: 16px;
+
+}
+
+.Lvls__isWested{
+    background-color: rgb(255, 106, 106);
+}
+
+.Lvls__isWon{
+    background-color: rgb(106, 255, 118);
+}

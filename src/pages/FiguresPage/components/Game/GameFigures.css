@@ -1,0 +1,7 @@
+.GameFigures__figur-img{
+    height: 200px;
+    width: 200px;
+}
+#id{
+    user-select: none; 
+}

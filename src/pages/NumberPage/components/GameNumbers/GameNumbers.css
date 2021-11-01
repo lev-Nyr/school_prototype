@@ -1,0 +1,25 @@
+.GameNumber__number{
+    font-size: 100px;
+    height: 150px;
+    width: 150px;
+}
+
+.GameNumber__number__wrong{
+    color: rgb(0, 0, 0);
+    background-color: rgb(30, 255, 0);
+}
+
+.Game__progress_progress{
+    background-color: #66ff00;
+    border: 0;
+    height: 18px;
+    border-radius: 9px;
+}
+.Game__progress_time{
+    
+    background-color:hsl(0, 100%, 50%);
+    border: 0;
+    height: 18px;
+    border-radius: 9px;
+
+}

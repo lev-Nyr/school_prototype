@@ -1,0 +1,17 @@
+.NumberPage {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+.NumberPage__menu{
+  padding: 20px;
+}
+.NumberPage__page{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  flex-grow: 1;
+}

@@ -1,0 +1,21 @@
+# IDEs
+idea/
+.idea/
+
+# Folders
+node_modules/
+build/
+dist/
+
+# Logs
+*.log
+*.tsbuildinfo
+
+# Enviroments
+.env
+
+# Cache
+.stylelintcache
+
+# Unknown
+.DS_Store

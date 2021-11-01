@@ -1,0 +1,11 @@
+.DisciplinePage{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding: 16px;
+    width: 100px;
+
+}
+.DisciplinePage__a{
+    color: rgb(0, 0, 0);
+}
